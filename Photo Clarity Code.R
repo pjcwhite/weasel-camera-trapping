@@ -29,6 +29,11 @@ qlt.model<-glm(formula=sqrt(x=qphoto$qual)~qphoto$luretype)
 shapiro.test(x=residuals(object=qlt.model))
 kruskal.test(formula=qphoto$qual~qphoto$luretype)
 
+#Test for normal distribution and create a non-parametric alternative model for bait and lure type combinations vs.none
+qblt.model<-glm(formula=qphoto$qual~qphoto$baitluretype)
+shapiro.test(x=residuals(object=qblt.model))
+kruskal.test(formula=qphoto$qual~qphoto$baitluretype)
+
 #Test for normal distribution, attempt data transformations, and create a non-parametric alternative model for Kill Squeak vs. none
 qks.model<-glm(formula=qphoto$qual~qphoto$KS)
 shapiro.test(x=residuals(object=qks.model))
@@ -40,6 +45,8 @@ wilcox.test(formula=qphoto$qual~qphoto$KS)
 
 #Reorder levels of explanatory variable and plot
 qphoto$luretype<-factor(qphoto$luretype,levels=c("none", "gusto", "supreme", "salmon"))
+qphoto$baitluretype<-factor(qphoto$baitluretype,levels=c("control", "beaver.gusto", "paste.supreme", "paste.gusto", "paste.salmon", "beaver.salmon", "beaver.supreme"))
 par(mfrow=(c(1,2)))
 plot(formula=qphoto$qual~qphoto$baitlure,xlab="Bait and Lure Use",ylab="Photo Clarity",main="a)")
 plot(formula=qphoto$qual~qphoto$luretype,xlab="Lure Type",ylab="Photo Clarity",main="b)")
+plot(formula=qphoto$qual~qphoto$baitluretype,xlab="Bait and Lure Combination",ylab="Photo Clarity",main="c)")
