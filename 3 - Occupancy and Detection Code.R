@@ -7,7 +7,7 @@
   # INSTALL spOccupancy PACKAGE
   library(spOccupancy)
 
-  # READ IN FILE 'WEASEL OCCUPANCY MODEL RAW DATA.csv'
+  # READ IN FILE '3 - Occupancy and Detection Data.csv'
   rm(list=ls())
   weasel.raw<-read.csv(file=fil.choose(),stringsAsFactors = T)
 
@@ -17,7 +17,7 @@
   # BELOW RESTRICTS DATA TO CAMERAS THAT ARE >= 20m APART (SEE PAPER). ALL 
   # SUBSEQUENT CODE CAN BE RUN EITHER WITH THE FULL (n = 126 setups) OR 
   # RESTRICTED(n = 73 setups) DASTSET
-  weasels<-weasels[weasels$Distance.to.nearest.cam..m.>=20,]
+    # weasels<-weasels[weasels$Distance.to.nearest.cam..m.>=20,]
   
 # FORMATTING DATA FOR USE IN PGOcc() FUNCTION
   
