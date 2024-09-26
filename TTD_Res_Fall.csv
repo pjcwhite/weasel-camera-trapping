@@ -1,0 +1,24 @@
+Camera Name,site,time,status,Date Deployed,Date Removed,active,visual,baitlure,baittype,luretype,baitluretype,KS,detection,Date of 1st Detection,Days to 1st Detection,# of Detections,season
+PLP 3-1,PLP 3,31,1,11/18/2022,1/16/2023,59,suet,yes,beaver,salmon,beaver.salmon,no,yes,12/19/2022,31,1,fall
+PLP 3-2,PLP 3,59,0,11/18/2022,1/16/2023,59,scale,yes,paste,gusto,paste.gusto,no,no,N/A,N/A,0,fall
+PLP 3-3,PLP 3,59,0,11/18/2022,1/16/2023,59,PVC,yes,paste,supreme,paste.supreme,no,no,N/A,N/A,0,fall
+HK 1-1,HK 1,1,1,11/12/2022,1/13/2023,62,PVC,yes,paste,salmon,paste.salmon,no,yes,11/13/2022,1,2,fall
+HK 1-2,HK 1,12,1,11/12/2022,12/27/2022,45,scale,yes,paste,gusto,paste.gusto,yes,yes,11/24/2022,12,1,fall
+HK 1-3,HK 1,1,1,11/12/2022,1/13/2023,62,suet,yes,beaver,supreme,beaver.supreme,no,yes,11/13/2022,1,1,fall
+TD 1-1,TD 1,42.5,1,11/18/2022,1/16/2023,59,suet,yes,beaver,gusto,beaver.gusto,no,yes,12/14/22-1/16/23,42.5,1,fall
+TD 1-2,TD 1,7,1,11/18/2022,12/23/2022,35,scale,yes,paste,salmon,paste.salmon,yes,yes,11/25/2022,7,3,fall
+TD 1-3,TD 1,18,1,11/18/2022,1/16/2023,59,PVC,yes,paste,supreme,paste.supreme,yes,yes,12/6/2022,18,2,fall
+TD 7-3,TD 7,56,0,9/1/2023,10/27/2023,56,scale,no,none,none,absent.absent,no,no,N/A,N/A,0,fall
+BR 2-1,BR 2,30,1,8/26/2023,11/26/2023,92,PVC,yes,paste,supreme,paste.supreme,no,yes,9/25/2023,30,4,fall
+BR 2-2,BR 2,42,1,8/26/2023,11/26/2023,92,suet,yes,beaver,salmon,beaver.salmon,no,yes,10/7/2023,42,7,fall
+BR 2-3,BR 2,41,1,8/26/2023,11/26/2023,92,scale,yes,paste,gusto,paste.gusto,no,yes,10/6/2023,41,2,fall
+BR 3-1,BR 3,13,1,8/26/2023,11/26/2023,92,PVC,yes,beaver,salmon,beaver.salmon,no,yes,9/8/2023,13,12,fall
+BR 4-1,BR 4,26,1,9/22/2023,11/26/2023,65,PVC,yes,paste,salmon,paste.salmon,no,yes,10/18/2023,26,2,fall
+BR 4-2,BR 4,57,0,9/22/2023,11/26/2023,65,scale,yes,paste,gusto,paste.gusto,no,no,N/A,N/A,0,fall
+BR 4-3,BR 4,26,1,9/22/2023,11/26/2023,65,suet,yes,beaver,supreme,beaver.supreme,no,yes,10/18/2023,26,1,fall
+BR 5-1,BR 5,51,0,11/26/2023,1/12/2024,47,scale,yes,paste,gusto,paste.gusto,no,no,N/A,N/A,0,fall
+BR 5-2,BR 5,51,0,11/26/2023,1/12/2024,47,PVC,yes,paste,supreme,paste.supreme,no,no,N/A,N/A,0,fall
+BR 5-3,BR 5,4,1,11/26/2023,1/12/2024,47,suet,yes,beaver,salmon,beaver.salmon,no,yes,11/30/2023,4,2,fall
+PLP 8-1,PLP 8,113,0,8/5/2023,11/26/2023,113,suet,no,none,none,absent.absent,no,no,N/A,N/A,0,fall
+PLP 8-2,PLP 8,113,0,8/5/2023,11/26/2023,113,PVC,no,none,none,absent.absent,yes,no,N/A,N/A,0,fall
+PLP 8-3,PLP 8,113,0,8/5/2023,11/26/2023,113,scale,no,none,none,absent.absent,no,no,N/A,N/A,0,fall

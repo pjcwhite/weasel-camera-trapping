@@ -1,0 +1,19 @@
+Camera Name,site,time,status,Date Deployed,Date Removed,active,visual,baitlure,baittype,luretype,baitluretype,KS,detection,Date of 1st Detection,Days to 1st Detection,# of Detections,season
+TD 3-1,TD 3,22.5,1,1/16/2023,5/30/2023,134,suet,yes,beaver,gusto,beaver.gusto,no,yes,1/28/2023-2/18/2023,22.5,1,spring
+TD 3-2,TD 3,152,0,1/16/2023,6/17/2023,152,scale,yes,paste,salmon,paste.salmon,yes,no,N/A,N/A,0,spring
+TD 3-3,TD 3,152,0,1/16/2023,6/17/2023,152,PVC,yes,paste,supreme,paste.supreme,no,no,N/A,N/A,0,spring
+MB 1-3,MB 1,125,0,3/5/2023,7/8/2023,125,PVC,no,none,none,absent.absent,no,no,N/A,N/A,0,spring
+KL 2-1,KL 2,127,0,2/10/2023,6/17/2023,127,suet,yes,beaver,salmon,beaver.salmon,no,no,N/A,N/A,0,spring
+KL 2-2,KL 2,106,1,2/10/2023,6/17/2023,127,PVC,yes,paste,gusto,paste.gusto,no,yes,5/27/2023,106,1,spring
+KL 2-3,KL 2,127,0,2/10/2023,6/17/2023,127,scale,yes,paste,supreme,paste.supreme,no,no,N/A,N/A,0,spring
+TD 4-1,TD 4,112,0,3/26/2023,7/16/2023,112,PVC,no,none,none,absent.absent,no,no,N/A,N/A,0,spring
+TD 4-2,TD 4,112,0,3/26/2023,7/16/2023,112,scale,no,none,none,absent.absent,yes,no,N/A,N/A,0,spring
+TD 4-3,TD 4,32,1,3/26/2023,7/16/2023,112,suet,no,none,none,absent.absent,no,yes,4/27/2023,32,1,spring
+PLP 4-3,PLP 4,119,1,3/26/2023,7/30/2023,126,scale,no,none,none,absent.absent,no,yes,7/23/2023,119,2,spring
+MP 3-1,MP 3,117,0,4/10/2023,8/5/2023,117,scale,yes,paste,gusto,paste.gusto,no,no,N/A,N/A,0,spring
+PLP 5-1,PLP 5,97,0,3/26/2023,7/1/2023,97,suet,yes,beaver,supreme,beaver.supreme,no,no,N/A,N/A,0,spring
+PLP 5-2,PLP 5,6,1,3/26/2023,7/1/2023,97,scale,yes,paste,salmon,paste.salmon,yes,yes,4/1/2023,6,1,spring
+PLP 5-3,PLP 5,97,0,3/26/2023,7/1/2023,97,PVC,yes,paste,gusto,paste.gusto,no,no,N/A,N/A,0,spring
+CI 2-1,CI 2,62,1,4/10/2023,7/16/2023,97,suet,yes,beaver,salmon,beaver.salmon,no,yes,6/11/2023,62,1,spring
+CI 2-2,CI 2,97,0,4/10/2023,7/16/2023,97,scale,yes,paste,gusto,paste.gusto,no,no,N/A,N/A,0,spring
+CI 2-3,CI 2,92,1,4/10/2023,7/16/2023,97,PVC,yes,paste,supreme,paste.supreme,no,yes,7/11/2023,92,1,spring
